@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="communication-history-loadtest-configure-pipeline.groovy" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="mockito-extensions" type="PLAIN_TEXT" />
+      <mapping pattern="cmd" type="PLAIN_TEXT" />
+      <mapping pattern="kafka_credentials.txt" type="PLAIN_TEXT" />
+      <mapping ext="mime" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="jinja" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

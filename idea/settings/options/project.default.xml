@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/avro-authorization-event" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/container-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/core-banking-clients" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/jersey-extensions" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/keycloak-clients" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/kred-clients" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/krns" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/nifflers/schema-container-events" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2034384" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+CheckStyle-IDEA
+Pythonid
+claims.bold.intellij.avro
+color.scheme.GapStyle
+com.adrian.dima.theme.monkai.pro
+com.github.mturlo.intellij.theme.spacegray
+com.jetbrains.darkPurpleTheme
+com.jetbrains.grayTheme
+com.jooas.themes
+com.thvardhan.gradianto
+com.tylerthrailkill.intellij.solarized
+org.intellij.plugins.hcl
+org.jetbrains.kotlin
+org.jetbrains.plugins.ruby
+org.toml.lang
